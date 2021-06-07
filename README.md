@@ -1,6 +1,6 @@
 # joke_generator
-#This created for Generate random jokes..
-#<i>ajax <i> is used in this..
- #you can visit this by clicking:
+<h1>This created for Generate random jokes..</h1>
+<i>ajax <i> is used in this..
+ <h2> you can visit this by clicking:<h1>
   
-  <center> #<b><i>https://jokeforfun.netlify.app/</i></b> </center>
+  <center> <h1><b><i>https://jokeforfun.netlify.app/</i></b> </h1></center>
